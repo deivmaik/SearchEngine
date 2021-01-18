@@ -1,2 +1,2 @@
-# SearchEngine
- HTML and CSS practice using google search engine as an example.
+# forly-search-engine
+If forly would have a search engine similar to google.
